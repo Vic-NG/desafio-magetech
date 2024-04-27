@@ -18,7 +18,7 @@ O projeto consiste em uma aplicação para gerenciamento de produtos, com funcio
 
 3. Inicie o servidor:
     ```
-    npm start
+    npm run dev
     ```
 
 4. Para testar a aplicação e seus endpoints basta acessar no Postman ou outro aplicativo de sua preferência seguido de:
