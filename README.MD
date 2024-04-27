@@ -21,9 +21,9 @@ O projeto consiste em uma aplicação para gerenciamento de produtos, com funcio
     npm start
     ```
 
-4. Acesse a aplicação no navegador utilizando o seguinte endereço:
+4. Para testar a aplicação e seus endpoints basta acessar no Postman ou outro aplicativo de sua preferência seguido de:
     ```
-    http://localhost:3000
+    http://localhost:3000/api/v1/{{endpoint}}
     ```
 
 ## Dependências Utilizadas
