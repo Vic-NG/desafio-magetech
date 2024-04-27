@@ -165,7 +165,7 @@ export const definirValorPromocional = async (req: Request, res: Response) => {
   }
 };
 
-export const obterProdutosSimples = async (res: Response) => {
+export const obterProdutosSimples = async (req: Request, res: Response) => {
   try {
     db.all('SELECT * FROM produtos_simples', [], (err, produtos) => {
       if (err) {

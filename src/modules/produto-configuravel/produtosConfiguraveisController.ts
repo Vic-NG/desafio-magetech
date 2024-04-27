@@ -67,7 +67,7 @@ export const deletarProdutoConfiguravelPorId = async (req: Request, res: Respons
   }
 };
 
-export const obterProdutosConfiguraveis = async (res: Response) => {
+export const obterProdutosConfiguraveis = async (req: Request, res: Response) => {
   try {
     db.all('SELECT * FROM produtos_configuraveis', [], (err, produtos) => {
       if (err) {
