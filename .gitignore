@@ -1,0 +1,24 @@
+# Arquivos e diretórios gerados automaticamente
+node_modules/
+dist/
+.cache/
+build/
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de compilação e dependências específicas de IDEs
+.vscode/
+.idea/
+
+# Arquivos de configuração específicos de sistemas operacionais
+.DS_Store
+Thumbs.db
