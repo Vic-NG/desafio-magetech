@@ -8,7 +8,7 @@ O projeto consiste em uma aplicação para gerenciamento de produtos, com funcio
 
 1. Clone o repositório do projeto:
     ```
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/Vic-NG/desafio-magetech
     ```
 
 2. Instale as dependências do projeto:
@@ -34,3 +34,4 @@ O projeto consiste em uma aplicação para gerenciamento de produtos, com funcio
   
 - **Path**: Módulo integrado do Node.js para manipulação de caminhos de arquivos. [Documentação](https://nodejs.org/api/path.html)
 
+- **Nodemon**: Utilitário que monitora alterações nos arquivos do projeto e reinicia automaticamente o servidor. Útil durante o desenvolvimento. [Link](https://nodemon.io/)
